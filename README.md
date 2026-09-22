@@ -485,8 +485,3 @@ Real evaluation happens when you play `python main.py` yourself.
 - **`train.py`** — the residual RL training loop, well-commented
 - **`evaluate.py`** — how the trained policy is measured
 
----
-
-## License
-
-[MIT or your choice — fill in here]
